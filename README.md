@@ -67,8 +67,9 @@ Here are some ideas to get you started:
 <!-- <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/lav-verma-a57474185"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lav%20Verma-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <a href="lavverma109@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Lav verma-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+<!-- <a href="https://www.instagram.com/adityavs_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a> -->
 <!-- ⭐️ From [AVS1508](https://github.com/AVS1508) -->
