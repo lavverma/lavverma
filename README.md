@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 
 <br/> -->
 
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=lavverma&show_icons=true"/>](https://github.com/AmitHasanShuvo/)
+
+
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <!-- <p align="center">
